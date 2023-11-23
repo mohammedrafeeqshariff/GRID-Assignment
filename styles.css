@@ -1,0 +1,49 @@
+.container{
+    display: grid;
+    grid-template-columns:repeat(3,1fr) ;
+    grid-template-rows: 500px 500px 500px ;
+    gap: 30px;
+    overflow-x: hidden;
+    overflow-y:;
+    background-color: rgb(107, 0, 0);
+}
+/* .marvel,.captainamerica,.ironman,.blackpanther,.spiderman,.dc,.superman,.batman,.flash,.deadpool{
+    background-size: 100%;
+} */
+
+.captainamerica{
+    background: url(https://e0.pxfuel.com/wallpapers/518/429/desktop-wallpaper-captain-america-lift-thor-hammer-iphone-captain-america-marvel-comics-marvel-characters-captain-america-worthy-thumbnail.jpg);
+    background-size: 100% 100%;
+}
+.ironman{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Bpbj_2w6u1LDhZPPpGGqpL_WeuimJjyDlhSYPNvuw9l1NlASI7DxF7FHl5vPpv-yX2Y&usqp=CAU);
+    background-size: 100% 100%;
+}
+.blackpanther{
+    background: url(https://i.pinimg.com/1200x/dd/c4/f8/ddc4f88596f682661cbb1d536955efdd.jpg);
+    background-size: 100% 100%;
+}
+.spiderman{
+    background: url(https://e1.pxfuel.com/desktop-wallpaper/941/159/desktop-wallpaper-spiderman-and-venom-venom-suit-thumbnail.jpg);
+    background-size: 100% 100%;
+}
+.hulk{
+    background: url(https://e0.pxfuel.com/wallpapers/208/947/desktop-wallpaper-hulk-dc-marvel-avengers.jpg);
+    background-size: 100% 100%;
+}
+.superman{
+    background: url(https://e0.pxfuel.com/wallpapers/911/47/desktop-wallpaper-henry-cavill-superman-and-background-superman-henry-cavill-background-henry-cavill-superman-iphone-thumbnail.jpg);
+    background-size: 100% 100%;
+}
+.batman{
+    background: url(https://e0.pxfuel.com/wallpapers/467/708/desktop-wallpaper-batman-digital-art-black-white-mobile-dc-comics-batman-poster-batman-batman-cool-thumbnail.jpg);
+    background-size: 100% 100%;
+}
+.flash{
+    background: url(https://w0.peakpx.com/wallpaper/573/737/HD-wallpaper-flash-barry-allen-2022-iphone-zoom-the-flash.jpg);
+    background-size: 100% 100%;
+}
+.deadpool{
+    background: url(https://c4.wallpaperflare.com/wallpaper/507/869/268/deadpool-wallpaper-preview.jpg);
+    background-size: 100% 100%;
+}
